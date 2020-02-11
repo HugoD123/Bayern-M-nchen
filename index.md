@@ -1,9 +1,6 @@
 <body
    style="background-color:red;">
-    <h1>
- <a href="https://fcbayern.com/en"> Bayern München </a>
-    
-     </h1>
+    <h1> <a href="https://fcbayern.com/en"> Bayern München </a> </h1>
     <img
   src="https://www.dw.com/image/50154005_303.jpg
          "/>
